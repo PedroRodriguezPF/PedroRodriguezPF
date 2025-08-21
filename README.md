@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hola, soy Pedrp!  
+👋 Hola, soy Pedro!  
 Soy un analista de datos apasionado por la programación y la narración a través de los datos. Aprovecho los lenguajes de programación para limpiar y procesar bases de datos, transformando información sin procesar en información útil que impulsa la toma de decisiones.
 
 - 🚀 Me encantan los desafíos y siempre estoy ansioso por aprender cosas nuevas.
